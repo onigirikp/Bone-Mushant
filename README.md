@@ -5,11 +5,7 @@ By
 
 2213210921 วิชชากร ประเทพ
 
-You can dowload in github
-
-or
-
-My backUp in GoogleDrive
+You can dowload from My Drive
 
 (
 
