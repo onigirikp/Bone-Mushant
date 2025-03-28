@@ -9,7 +9,7 @@ You can dowload in github
 
 or
 
-สำรอง
+BackUp
 
 (
 
