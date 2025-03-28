@@ -1,5 +1,17 @@
 # Bone-Mushant
+Project Game Bone&Mushant 
+
+By
+
 2213210921 วิชชากร ประเทพ
-Game
-SorceCode
-Video Review
+
+สำรอง
+(
+
+-Game
+
+-SorceCode
+
+-Video Review
+
+)
