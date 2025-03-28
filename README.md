@@ -11,7 +11,7 @@ You can dowload from My Drive
 
 (
 
--Game https://drive.google.com/drive/folders/1PMVdujRgQvGxCc8qhBrwxYeKflmchTlw?usp=sharing
+-Exported Game https://drive.google.com/drive/folders/1PMVdujRgQvGxCc8qhBrwxYeKflmchTlw?usp=sharing
 
 -SorceCode https://drive.google.com/drive/folders/1MRp6LpG_ATtNmN1X9PvFQ-crDNSBmTjZ?usp=sharing
 
